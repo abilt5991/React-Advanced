@@ -1,4 +1,4 @@
-# React-Advanced
+# react-advanced
 
 Vanlife React Application:
 Developed this comprehensive React application centred around the theme of Vanlife. Leveraged React components, hooks, and routers to create a seamless user experience. Implemented essential navigation concepts, including nested routes, to efficiently structure the website's pages. Utilised local storage for enhanced usability in user authentication. Also, implemented user authentication simulation for securing specific router pages.
